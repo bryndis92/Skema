@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470175946 source:c:\users\bryndís\documents\skema\vektor\main.cpp
+	<iostream>
+	<vector>
+
